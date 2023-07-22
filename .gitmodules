@@ -6,3 +6,4 @@
 	url = https://github.com/hexojs/hexo-theme-light.git
 [submodule ".deploy_git"]
 	url = https://github.com/fkuner/fkuner.github.io.git
+	path = .deploy_git
